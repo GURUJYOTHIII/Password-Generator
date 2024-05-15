@@ -2,13 +2,6 @@
 Password Generator
 This is a simple web-based password generator application.
 
-Table of Contents: Description,Demo,Features,
-Installation.
-Usage.
-Contributing,
-License.
-
-
 Description :
 The Password Generator is a web application that generates strong and random passwords based on user-defined criteria. It's designed to help users create secure passwords for their accounts.
 
