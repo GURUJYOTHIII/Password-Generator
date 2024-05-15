@@ -13,7 +13,7 @@ Description :
 The Password Generator is a web application that generates strong and random passwords based on user-defined criteria. It's designed to help users create secure passwords for their accounts.
 
 Demo :
-You can try the live demo of this application here (https://)
+You can try the live demo of this application here (https://gurujyothiii.github.io/Password-Generator/)
 
 Features :
 Generate random passwords with specified length.
